@@ -7,5 +7,5 @@
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/slide.min.css">
   <link rel="stylesheet" href="css/common.css">
-  <title>Common</title>
+  <title>JS PORTFOLIO</title>
 </head>
